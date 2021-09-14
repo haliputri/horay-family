@@ -14,3 +14,5 @@ Target Pengguna:
   Jobseeker atau orang orang yang sedang mencari lowongan pekerjaan dan perusahaan yang ingin memposting lowongan pekerjaan
   
 
+Skema Database:
+  ![jobvacancyscheme](https://user-images.githubusercontent.com/79518623/133263798-df393d40-775e-4b4a-bc19-af21ea82920b.jpg)
