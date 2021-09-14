@@ -1,7 +1,7 @@
 # horay-family
 Anggota Kelompok:
-  Hali Putri Aisyah (006)
-  Muhammad Nabil Fikri Sudjarpadi (046)
+  Hali Putri Aisyah (006) <br>
+  Muhammad Nabil Fikri Sudjarpadi (046) <br>
   Alya Raisa Hidayat (060)
   
 Fungsi:
